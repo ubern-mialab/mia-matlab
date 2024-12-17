@@ -7,7 +7,7 @@
 
 # Derived content-obscured files
 *.p
-*.mat
+preprocessedData.mat
 resources/*
 
 # Compiled MEX files
